@@ -1,5 +1,6 @@
 .vscode
-
+.idea/*
+.idea
 # Pylance
 pyrightconfig.json
 
