@@ -1,6 +1,7 @@
 .vscode
 .idea/*
 .idea
+.DS_Store
 # Pylance
 pyrightconfig.json
 
